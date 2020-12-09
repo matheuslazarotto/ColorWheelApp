@@ -1,4 +1,4 @@
-# Color Wheel application
+# Color Wheel Widget
 
 Implement a demonstration of a color wheel widget chart for color selection. 
 The colors are selected in a HSV (Hue, Saturation, Value/Brightness) 
