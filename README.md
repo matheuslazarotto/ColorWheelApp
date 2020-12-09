@@ -1,6 +1,6 @@
 # Color Wheel application
 
-Implement a demonstration of a color wheel chart for color selection. 
+Implement a demonstration of a color wheel widget chart for color selection. 
 The colors are selected in a HSV (Hue, Saturation, Value/Brightness) 
 scale and converted to RGB.
 
