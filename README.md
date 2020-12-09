@@ -12,10 +12,14 @@ drawing part is relatively simple.
 
 The graphic part of the code is based on the well made educational engine 
 tool olcPixelGameEngine, which I must credit and thanks Javidx9 for releasing 
-it for free. Check out his channel with tons of information on the engine and 
-brilliant tutorials:
+it for free. His YouTube channel is a valuable source of information and 
+brilliant tutorials in C++ programming, along with vast information on the 
+engine he developed:
+
 https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
-and his olcPGE git source:
+
+and of course, his olcPGE git source:
+
 https://github.com/OneLoneCoder/olcPixelGameEngine
 
 A little bit of color mapping theory, particularly HSV/HSL system and RGB 
@@ -23,7 +27,7 @@ can be found in https://en.wikipedia.org/wiki/HSL_and_HSV; which includes
 the conversion formulas used in this application.
 
 This kind of color wheel is commonly found in graphic softwares, particularly 
-in Blender and MacOS applications, and I hope it becomes useful in case one 
+in Blender and MacOS applications and I hope it becomes useful in case one 
 wish to implemented it by hand in a program and to provide the same amount of 
 fun as I had studying it.
 
