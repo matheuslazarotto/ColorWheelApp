@@ -49,6 +49,6 @@ wishes to implemented it by hand and to provide it the same amount of
 fun as I had studying it.
 
 Corrections, suggestions or tips are welcomed.
-Free to enjoy, modift and copy it as your will command.
+Free to enjoy, modify and copy it as your will command.
 
 Implemented by M. Lazarotto (07/12/2020)
